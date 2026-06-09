@@ -37,4 +37,4 @@ To test the cricket analyzer:
 python cricketcal.py
 
 ## Author
-* **Guru Senthamizhan** - Software Developer
+* **Guru** - Software Developer
