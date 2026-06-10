@@ -16,6 +16,12 @@ This program calculates cricket performance metrics. It contains specialized fun
 * Team Run Rate
 * Player Performance Average
 
+### 3. Chemistry formula Generater (chemistry.py)
+This program calculates Chemistry formula generating 20 combinations:
+* Combin both elements and create new element
+* 20 combinations
+* will add next version above 30 plus combinations
+
 ## Technical Stack and Code Features
 * **Language:** Python 3.10
 * **Input System:** Dynamic terminal-based user input handling.
